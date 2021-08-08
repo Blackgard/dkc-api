@@ -1,0 +1,15 @@
+# 
+
+# poetry lock
+poetry.lock
+
+# end files
+.env
+
+# acces token files
+access_token.json
+
+# pip build
+build
+dist
+dkc_api.egg-info
