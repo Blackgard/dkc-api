@@ -40,7 +40,7 @@ To get started, you need to import the main class DkcAPI.
 from dkc_api.v1.dkc_api import DkcAPI
 ```
 
-Next, we pass the initialization parameters to the class. If you want to use environment variables, then the file [.env.example](https://github.com/Blackgard/amocrm-api/blob/master/.env.example) is prepared for this.
+Next, we pass the initialization parameters to the class. If you want to use environment variables, then the file [.env.example](https://github.com/Blackgard/dkc-api/blob/master/.env.example) is prepared for this.
 
 ```python
 dkc_api = DkcAPI(
